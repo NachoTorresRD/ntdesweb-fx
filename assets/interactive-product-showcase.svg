@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Interactive Product Showcase</title>
+  <desc id="desc">A premium procedural headphone object shown in an exploded internal view.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f3f0e9"/><stop offset="1" stop-color="#d8d1c5"/></linearGradient>
+    <linearGradient id="metal"><stop stop-color="#101111"/><stop offset=".45" stop-color="#555754"/><stop offset=".7" stop-color="#111212"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="720" height="440" fill="url(#bg)"/><ellipse cx="434" cy="354" rx="220" ry="30" fill="#373531" opacity=".14"/>
+  <g fill="none" stroke="#f04a24" stroke-opacity=".35"><ellipse cx="420" cy="230" rx="260" ry="115"/><path d="M48 66h160"/></g>
+  <g transform="translate(330 55)" filter="url(#shadow)">
+    <path d="M-112 200C-110 62-58 10 8 10s118 52 120 190" fill="none" stroke="url(#metal)" stroke-width="24" stroke-linecap="round"/>
+    <path d="M-108 196C-105 68-56 24 8 24s113 44 116 172" fill="none" stroke="#f04a24" stroke-width="3"/>
+    <g transform="translate(-118 205)"><rect x="-22" y="-62" width="54" height="124" rx="20" fill="#181918"/><ellipse cx="38" cy="0" rx="25" ry="54" fill="#3c3d3a"/><ellipse cx="78" cy="0" rx="10" ry="44" fill="#f04a24"/><ellipse cx="112" cy="0" rx="8" ry="32" fill="#c4c2ba"/><circle cx="146" cy="0" r="18" fill="#171817" stroke="#f04a24" stroke-width="4"/></g>
+    <g transform="translate(135 205)"><circle cx="-62" cy="0" r="18" fill="#171817" stroke="#f04a24" stroke-width="4"/><ellipse cx="-28" cy="0" rx="8" ry="32" fill="#c4c2ba"/><ellipse cx="6" cy="0" rx="10" ry="44" fill="#f04a24"/><ellipse cx="46" cy="0" rx="25" ry="54" fill="#3c3d3a"/><rect x="52" y="-62" width="54" height="124" rx="20" fill="#181918"/></g>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#171817"><text x="48" y="62" font-size="13" font-weight="700" letter-spacing="3" fill="#f04a24">OBJECT STUDY / H01</text><text x="48" y="340" font-size="36" font-weight="700">PRODUCT,</text><text x="48" y="380" font-size="36" font-family="Georgia, serif" font-style="italic" fill="#77736c">REIMAGINED.</text></g>
+</svg>

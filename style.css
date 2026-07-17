@@ -503,6 +503,20 @@ svg {
   animation-delay: var(--card-delay);
 }
 
+.effect-card--experience {
+  border-color: rgba(31, 36, 29, 0.34);
+  box-shadow: 0 18px 55px rgba(24, 29, 17, 0.09);
+}
+
+.effect-card--experience .category-tag {
+  background: var(--ink);
+  color: #e8ff76;
+}
+
+.effect-card--experience .card-preview {
+  background: #080b0b;
+}
+
 .card-preview {
   position: relative;
   display: block;

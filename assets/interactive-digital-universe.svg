@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Interactive Digital Universe</title>
+  <desc id="desc">Four colorful project planets orbit inside a modern purple digital nebula.</desc>
+  <defs>
+    <radialGradient id="bg"><stop stop-color="#3f276f"/><stop offset=".58" stop-color="#171d48"/><stop offset="1" stop-color="#0d1533"/></radialGradient>
+    <radialGradient id="mint" cx="35%" cy="30%"><stop stop-color="#e7fff7"/><stop offset=".18" stop-color="#70f7c9"/><stop offset="1" stop-color="#176755"/></radialGradient>
+    <radialGradient id="orange" cx="35%" cy="30%"><stop stop-color="#fff1d9"/><stop offset=".2" stop-color="#ffad4d"/><stop offset="1" stop-color="#8d351e"/></radialGradient>
+    <radialGradient id="blue" cx="35%" cy="30%"><stop stop-color="#eff0ff"/><stop offset=".2" stop-color="#7b8cff"/><stop offset="1" stop-color="#25337f"/></radialGradient>
+    <radialGradient id="pink" cx="35%" cy="30%"><stop stop-color="#ffe5f2"/><stop offset=".2" stop-color="#ff5ca8"/><stop offset="1" stop-color="#73204c"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="720" height="440" fill="url(#bg)"/>
+  <g fill="#dce5ff" opacity=".7"><circle cx="80" cy="72" r="1.6"/><circle cx="177" cy="112" r="1"/><circle cx="310" cy="62" r="1.4"/><circle cx="622" cy="88" r="1"/><circle cx="668" cy="282" r="1.6"/><circle cx="78" cy="338" r="1"/><circle cx="305" cy="382" r="1.2"/><circle cx="538" cy="352" r="1"/></g>
+  <g fill="none" stroke="#b7c1ff" stroke-opacity=".22"><ellipse cx="395" cy="224" rx="286" ry="124"/><ellipse cx="395" cy="224" rx="238" ry="90" transform="rotate(-12 395 224)"/><ellipse cx="395" cy="224" rx="180" ry="168" transform="rotate(22 395 224)"/></g>
+  <g filter="url(#glow)"><circle cx="518" cy="164" r="46" fill="url(#mint)"/><circle cx="292" cy="126" r="57" fill="url(#orange)"/><circle cx="229" cy="302" r="62" fill="url(#blue)"/><circle cx="527" cy="312" r="43" fill="url(#pink)"/></g>
+  <ellipse cx="527" cy="312" rx="68" ry="18" fill="none" stroke="#ff92c5" stroke-width="4" transform="rotate(-18 527 312)"/>
+  <g font-family="Arial, sans-serif" fill="#fff"><text x="48" y="62" font-size="13" font-weight="700" letter-spacing="3" fill="#6cffca">LOCAL / 04 WORLDS</text><text x="48" y="352" font-size="36" font-weight="700">DIGITAL WORLDS</text><text x="48" y="391" font-size="36" font-family="Georgia, serif" font-style="italic" fill="#bac4ff">WITH GRAVITY.</text></g>
+</svg>

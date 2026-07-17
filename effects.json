@@ -1,5 +1,32 @@
 [
   {
+    "name": "Device Breakdown Experience",
+    "category": "Experiences",
+    "description": "A cinematic WebGL journey that disassembles a premium smartphone layer by layer and rebuilds it through scroll.",
+    "demo": "https://device.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/device-breakdown-experience",
+    "preview": "assets/device-breakdown-experience.svg",
+    "previewAlt": "Preview of the Device Breakdown Experience smartphone teardown"
+  },
+  {
+    "name": "Interactive Digital Universe",
+    "category": "Experiences",
+    "description": "A living WebGL constellation where WHABOT, POSENT, NTDESWEB and NT Skill Supreme become explorable worlds.",
+    "demo": "https://universe.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/interactive-digital-universe",
+    "preview": "assets/interactive-digital-universe.svg",
+    "previewAlt": "Preview of the Interactive Digital Universe and its orbital project worlds"
+  },
+  {
+    "name": "Interactive Product Showcase",
+    "category": "Experiences",
+    "description": "A real-time product story with responsive light, exploded anatomy, internal hotspots and live material changes.",
+    "demo": "https://product.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/interactive-product-showcase",
+    "preview": "assets/interactive-product-showcase.svg",
+    "previewAlt": "Preview of the Interactive Product Showcase with a procedural audio object"
+  },
+  {
     "name": "Hacker Text Effect",
     "category": "Text",
     "description": "An accessible scramble and decoder text effect with adjustable speed and reduced-motion support.",

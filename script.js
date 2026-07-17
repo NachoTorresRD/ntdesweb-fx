@@ -17,6 +17,7 @@ const elements = {
 };
 
 const preferredCategoryOrder = [
+  "Experiences",
   "Text",
   "Buttons",
   "Cards",
@@ -68,6 +69,7 @@ function makeLink(label, href, className, accessibleLabel) {
 function createCard(effect, index) {
   const card = document.createElement("article");
   card.className = "effect-card";
+  if (effect.category === "Experiences") card.classList.add("effect-card--experience");
   card.setAttribute("role", "listitem");
   card.style.setProperty("--card-delay", `${Math.min(index * 45, 315)}ms`);
 
@@ -141,7 +143,7 @@ function renderEffects() {
   elements.grid.setAttribute("aria-busy", "false");
   elements.empty.hidden = effects.length > 0;
 
-  const noun = effects.length === 1 ? "effect" : "effects";
+  const noun = effects.length === 1 ? "project" : "projects";
   elements.status.textContent = `${effects.length} ${noun}`;
 }
 

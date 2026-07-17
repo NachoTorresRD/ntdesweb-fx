@@ -3,20 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NTDESWEB FX — Free HTML, CSS & JavaScript Effects</title>
-  <meta name="description" content="Explore free, accessible web effects built with HTML, CSS and Vanilla JavaScript by NTDESWEB.">
+  <title>NTDESWEB FX — Web Effects & WebGL Experiences</title>
+  <meta name="description" content="Explore accessible web effects and cinematic WebGL experiences built with HTML, CSS and Vanilla JavaScript by NTDESWEB.">
   <link rel="canonical" href="https://fx.ntdesweb.dev/">
   <meta name="theme-color" content="#f6f7f2">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="NTDESWEB FX">
-  <meta property="og:title" content="NTDESWEB FX — Free HTML, CSS & JavaScript Effects">
-  <meta property="og:description" content="A curated collection of fast, accessible effects for the open web.">
+  <meta property="og:title" content="NTDESWEB FX — Web Effects & WebGL Experiences">
+  <meta property="og:description" content="A curated collection of accessible effects and cinematic WebGL experiences for the open web.">
   <meta property="og:url" content="https://fx.ntdesweb.dev/">
   <meta property="og:image" content="https://fx.ntdesweb.dev/og-image.svg">
   <meta property="og:image:alt" content="NTDESWEB FX — Free HTML, CSS and JavaScript Effects">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="NTDESWEB FX">
-  <meta name="twitter:description" content="Free HTML, CSS & JavaScript Effects">
+  <meta name="twitter:description" content="Web effects and cinematic WebGL experiences built for the open web.">
   <meta name="twitter:image" content="https://fx.ntdesweb.dev/og-image.svg">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
@@ -26,7 +26,7 @@
     "@type": "WebSite",
     "name": "NTDESWEB FX",
     "url": "https://fx.ntdesweb.dev/",
-    "description": "Free HTML, CSS and JavaScript effects for the open web.",
+    "description": "HTML, CSS, JavaScript and WebGL experiments for the open web.",
     "creator": {
       "@type": "Person",
       "name": "Nacho Torres",
@@ -37,7 +37,7 @@
   <script src="script.js" defer></script>
 </head>
 <body>
-  <a class="skip-link" href="#effects">Skip to effects</a>
+  <a class="skip-link" href="#effects">Skip to collection</a>
 
   <header class="site-header">
     <div class="header-inner">
@@ -46,7 +46,7 @@
         <span>NTDESWEB <strong>FX</strong></span>
       </a>
       <nav class="header-nav" aria-label="Primary navigation">
-        <a href="#effects">Effects</a>
+        <a href="#effects">Collection</a>
         <a href="https://github.com/NachoTorresRD/ntdesweb-fx" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
       </nav>
     </div>
@@ -57,10 +57,10 @@
       <div class="hero-copy">
         <p class="eyebrow"><span aria-hidden="true"></span> Open-source vanilla collection</p>
         <h1 id="hero-title">NTDESWEB <em>FX</em></h1>
-        <p class="hero-lede">Free HTML, CSS &amp; JavaScript Effects</p>
-        <p class="hero-description">Production-minded microinteractions and visual effects. Browse the demos, inspect the source and use the ideas in your next interface.</p>
+        <p class="hero-lede">HTML, CSS, JavaScript &amp; WebGL Experiments</p>
+        <p class="hero-description">Production-minded microinteractions, visual effects and cinematic WebGL experiences. Browse the demos, inspect the source and use the ideas in your next interface.</p>
         <div class="hero-actions">
-          <a class="button button-primary" href="#effects">Browse effects <span aria-hidden="true">↓</span></a>
+          <a class="button button-primary" href="#effects">Browse collection <span aria-hidden="true">↓</span></a>
           <a class="button button-secondary" href="https://github.com/NachoTorresRD/ntdesweb-fx" target="_blank" rel="noopener noreferrer">View on GitHub <span aria-hidden="true">↗</span></a>
           <a class="text-link" href="https://www.ntdesweb.dev" target="_blank" rel="noopener noreferrer">NTDESWEB <span aria-hidden="true">↗</span></a>
         </div>
@@ -69,7 +69,7 @@
       <aside class="hero-index" aria-label="Collection summary">
         <div class="index-topline"><span>Catalog</span><span>2026</span></div>
         <strong id="effect-count" aria-live="polite">—</strong>
-        <p>Independent effects.<br>One growing collection.</p>
+        <p>Independent experiments.<br>One growing collection.</p>
         <div class="index-stack" aria-hidden="true"><span></span><span></span><span></span></div>
       </aside>
     </section>
@@ -78,7 +78,7 @@
       <div class="catalog-heading">
         <div>
           <p class="section-kicker">The collection</p>
-          <h2 id="catalog-title">Effects built for the browser, not a framework.</h2>
+          <h2 id="catalog-title">Effects and experiences built for the browser, not a framework.</h2>
         </div>
         <p>Every card links to an independent live demo and its public source repository.</p>
       </div>
@@ -86,23 +86,23 @@
       <div class="catalog-tools">
         <label class="search-field" for="effect-search">
           <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="m21 21-4.35-4.35m2.35-5.15a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></svg>
-          <span class="sr-only">Search effects</span>
+          <span class="sr-only">Search projects</span>
           <input id="effect-search" type="search" autocomplete="off" placeholder="Search by name, category or description">
           <kbd aria-hidden="true">/</kbd>
         </label>
-        <div class="filters" id="category-filters" aria-label="Filter effects by category"></div>
+        <div class="filters" id="category-filters" aria-label="Filter projects by category"></div>
       </div>
 
       <div class="results-bar">
         <p id="results-status" role="status" aria-live="polite">Loading the collection…</p>
-        <span>HTML · CSS · VANILLA JS</span>
+        <span>HTML · CSS · VANILLA JS · WEBGL</span>
       </div>
 
       <div class="effects-grid" id="effects-grid" role="list" aria-busy="true"></div>
 
       <div class="empty-state" id="empty-state" hidden>
         <span aria-hidden="true">⌕</span>
-        <h3>No effects found</h3>
+        <h3>No projects found</h3>
         <p>Try a different search or category.</p>
         <button class="button button-secondary" id="clear-filters" type="button">Clear filters</button>
       </div>
@@ -114,7 +114,7 @@
       </div>
 
       <noscript>
-        <div class="error-state"><h3>JavaScript is required to load the catalog.</h3><p>The effects are stored in <code>effects.json</code>.</p></div>
+        <div class="error-state"><h3>JavaScript is required to load the catalog.</h3><p>The projects are stored in <code>effects.json</code>.</p></div>
       </noscript>
     </section>
   </main>

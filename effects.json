@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Hacker Text Effect",
+    "category": "Text",
+    "description": "An accessible scramble and decoder text effect with adjustable speed and reduced-motion support.",
+    "demo": "https://hacker.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/hacker-text-effect",
+    "preview": "assets/hacker-text-effect.svg",
+    "previewAlt": "Preview of the Hacker Text Effect decoder interface"
+  },
+  {
+    "name": "Magnetic Button Effect",
+    "category": "Buttons",
+    "description": "A tactile button that responds to pointer proximity and provides an equivalent touch interaction.",
+    "demo": "https://magnetic.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/magnetic-button-effect",
+    "preview": "assets/magnetic-button-effect.svg",
+    "previewAlt": "Preview of the Magnetic Button Effect interaction"
+  },
+  {
+    "name": "Glassmorphism Pricing Card",
+    "category": "Cards",
+    "description": "A focused glassmorphism card laboratory for studying hierarchy, depth and interface density.",
+    "demo": "https://glass.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/glassmorphism-pricing-card",
+    "preview": "assets/glassmorphism-pricing-card.svg",
+    "previewAlt": "Preview of the Glassmorphism Pricing Card study"
+  },
+  {
+    "name": "Scroll Reveal Section",
+    "category": "Animations",
+    "description": "A compact scroll stage with progressive entrances, directional movement and depth transitions.",
+    "demo": "https://scroll.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/scroll-reveal-section",
+    "preview": "assets/scroll-reveal-section.svg",
+    "previewAlt": "Preview of the Scroll Reveal Section sequence"
+  },
+  {
+    "name": "Neon Cursor Trail Effect",
+    "category": "Cursor",
+    "description": "A luminous, canvas-based cursor trail with bounded particles and adjustable intensity.",
+    "demo": "https://neon.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/neon-cursor-trail-effect",
+    "preview": "assets/neon-cursor-trail-effect.svg",
+    "previewAlt": "Preview of the Neon Cursor Trail Effect"
+  },
+  {
+    "name": "Animated Login Panel",
+    "category": "Forms",
+    "description": "An accessible authentication panel with a tiny animated crew that reacts to every form step.",
+    "demo": "https://login.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/animated-login-panel",
+    "preview": "assets/animated-login-panel.svg",
+    "previewAlt": "Preview of the Animated Login Panel and its character crew"
+  },
+  {
+    "name": "Floating Navbar Effect",
+    "category": "Navigation",
+    "description": "A floating navigation bar with a spring-like indicator and three responsive interface scenes.",
+    "demo": "https://navbar.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/floating-navbar-effect",
+    "preview": "assets/floating-navbar-effect.svg",
+    "previewAlt": "Preview of the Floating Navbar Effect"
+  },
+  {
+    "name": "Spotlight Card Effect",
+    "category": "Cards",
+    "description": "A digital product card with a pointer-aware spotlight and illuminated border treatment.",
+    "demo": "https://spotlight.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/spotlight-card-effect",
+    "preview": "assets/spotlight-card-effect.svg",
+    "previewAlt": "Preview of the Spotlight Card Effect"
+  },
+  {
+    "name": "3D Product Card Effect",
+    "category": "Cards",
+    "description": "A layered product card with perspective tilt, synchronized glare and a spring-like return.",
+    "demo": "https://card3d.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/3d-product-card-effect",
+    "preview": "assets/3d-product-card-effect.svg",
+    "previewAlt": "Preview of the 3D Product Card Effect"
+  },
+  {
+    "name": "Before / After Image Slider",
+    "category": "Effects",
+    "description": "An accessible comparison slider that reveals the transformation from wireframe to polished scene.",
+    "demo": "https://fxpreview.ntdesweb.dev/",
+    "github": "https://github.com/NachoTorresRD/before-after-image-slider",
+    "preview": "assets/before-after-image-slider.svg",
+    "previewAlt": "Preview of the Before and After Image Slider"
+  }
+]

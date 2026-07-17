@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">NTDESWEB FX</title>
+  <desc id="desc">Free HTML, CSS and JavaScript Effects</desc>
+  <rect width="1200" height="630" fill="#f6f7f2"/>
+  <path d="M0 96h1200M0 192h1200M0 288h1200M0 384h1200M0 480h1200M0 576h1200M96 0v630M192 0v630M288 0v630M384 0v630M480 0v630M576 0v630M672 0v630M768 0v630M864 0v630M960 0v630M1056 0v630M1152 0v630" stroke="#dfe3d7"/>
+  <rect x="64" y="64" width="1072" height="502" rx="34" fill="#fff" stroke="#cbd1c2"/>
+  <rect x="104" y="104" width="56" height="56" rx="15" fill="#11130f"/>
+  <text x="132" y="139" fill="#c8ff5a" font-family="Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle">NT</text>
+  <text x="184" y="139" fill="#11130f" font-family="Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="4">NTDESWEB FX</text>
+  <text x="104" y="342" fill="#11130f" font-family="Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-8">NTDESWEB</text>
+  <text x="835" y="342" fill="#6c861d" font-family="Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-8">FX</text>
+  <text x="108" y="407" fill="#62675d" font-family="Arial, sans-serif" font-size="30" font-weight="600">Free HTML, CSS &amp; JavaScript Effects</text>
+  <rect x="104" y="480" width="270" height="48" rx="12" fill="#11130f"/>
+  <text x="239" y="511" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">EXPLORE THE COLLECTION</text>
+  <circle cx="1040" cy="470" r="80" fill="#c8ff5a"/>
+</svg>

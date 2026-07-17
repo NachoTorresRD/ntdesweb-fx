@@ -1,10 +1,18 @@
 # NTDESWEB FX
 
-Catálogo oficial de efectos web gratuitos creados con HTML, CSS y JavaScript Vanilla.
+Catálogo oficial de efectos y experiencias web creados con HTML, CSS, JavaScript Vanilla y WebGL.
 
 **Sitio:** https://fx.ntdesweb.dev/
 
 NTDESWEB FX conecta cada demostración en vivo con su repositorio independiente. El código de los efectos no se copia dentro de este proyecto.
+
+## Experiencias destacadas
+
+- Device Breakdown Experience: https://device.ntdesweb.dev/ — https://github.com/NachoTorresRD/device-breakdown-experience
+- Interactive Digital Universe: https://universe.ntdesweb.dev/ — https://github.com/NachoTorresRD/interactive-digital-universe
+- Interactive Product Showcase: https://product.ntdesweb.dev/ — https://github.com/NachoTorresRD/interactive-product-showcase
+
+La colección contiene **13 proyectos independientes**: tres experiencias WebGL y diez efectos de interfaz.
 
 ## Navegar por la colección
 

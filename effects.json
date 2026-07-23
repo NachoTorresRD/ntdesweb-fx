@@ -72,13 +72,13 @@
     "previewAlt": "Preview of the Neon Cursor Trail Effect"
   },
   {
-    "name": "Animated Login Panel",
+    "name": "3D Animated Login",
     "category": "Forms",
-    "description": "An accessible authentication panel with a tiny animated crew that reacts to every form step.",
+    "description": "A cinematic authentication experience where a 3D character enters the scene and responds to each form state.",
     "demo": "https://login.ntdesweb.dev/",
     "github": "https://github.com/NachoTorresRD/animated-login-panel",
-    "preview": "assets/animated-login-panel.svg",
-    "previewAlt": "Preview of the Animated Login Panel and its character crew"
+    "preview": "assets/animated-login-panel.png",
+    "previewAlt": "Preview of the NTDESWEB 3D Animated Login with its character and authentication panel"
   },
   {
     "name": "Floating Navbar Effect",
